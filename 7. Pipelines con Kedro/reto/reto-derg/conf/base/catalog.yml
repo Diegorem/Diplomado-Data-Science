@@ -1,0 +1,38 @@
+# Here you can define all your datasets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+
+# Entradas
+cards:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/cards_data.csv
+
+transactions:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/transactions_data.csv
+
+users:
+  type: pandas.CSVDataset
+  filepath: data/01_raw/users_data.csv
+
+#Salidas
+cards_filtered:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/cards_data_filtered.csv
+
+transactions_filtered:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/transactions_data_filtered.csv
+
+users_filtered:
+  type: pandas.CSVDataset
+  filepath: data/02_intermediate/users_data_filtered.csv
+
+users_summary:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/users_summary.csv
+
+merchant_summary:
+  type: pandas.CSVDataset
+  filepath: data/03_primary/merchant_summary.csv
