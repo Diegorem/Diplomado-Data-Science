@@ -1,0 +1,331 @@
+2026-07-25 12:14:12,747 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 12:17:53,851 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 12:17:55,035 - py.warnings - WARNING - C:\Users\diego\Documents\1. Diplomado Data Science\7. Pipelines con Kedro\reto\.venv\Lib\site-packages\kedro\framework\cli\catalog.py:63: KedroDeprecationWarning: `kedro catalog list` CLI command is deprecated and will be replaced with its updated version - `kedro catalog list-datasets` in Kedro 1.0.0.
+  warnings.warn(
+
+2026-07-25 12:17:57,641 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-25 12:18:54,321 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 12:18:54,968 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-25 12:19:17,923 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 12:19:18,535 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-25 12:19:53,472 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 12:19:54,140 - kedro.validation.parameter_validator - INFO - No typed parameter requirements found, returning original parameters
+2026-07-25 12:19:54,926 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-25 12:20:04,992 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 12:20:05,571 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-25 12:21:07,521 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 12:21:08,096 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-25 12:21:26,635 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 12:21:28,961 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 12:21:29,067 - kedro.ipython - INFO - Registered line magic '%reload_kedro'
+2026-07-25 12:21:29,068 - kedro.ipython - INFO - Registered line magic '%load_node'
+2026-07-25 12:21:29,070 - kedro.ipython - INFO - Resolved project path as: C:\Users\diego\Documents\1. Diplomado Data Science\7. Pipelines con Kedro\reto\test.
+To set a different path, run '%reload_kedro <project_root>'
+2026-07-25 12:21:29,736 - kedro.validation.parameter_validator - INFO - No typed parameter requirements found, returning original parameters
+2026-07-25 12:21:30,343 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-25 12:21:31,043 - kedro.ipython - INFO - Kedro project Test
+2026-07-25 12:21:31,044 - kedro.ipython - INFO - Defined global variable 'context', 'session', 'catalog' and 'pipelines'
+2026-07-25 12:21:31,734 - kedro.ipython - INFO - Registered line magic 'run_viz'
+2026-07-25 12:25:28,736 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 12:25:29,279 - py.warnings - WARNING - C:\Users\diego\Documents\1. Diplomado Data Science\7. Pipelines con Kedro\reto\.venv\Lib\site-packages\kedro\framework\cli\catalog.py:63: KedroDeprecationWarning: `kedro catalog list` CLI command is deprecated and will be replaced with its updated version - `kedro catalog list-datasets` in Kedro 1.0.0.
+  warnings.warn(
+
+2026-07-25 12:25:29,848 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-25 14:27:53,799 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 14:27:55,731 - py.warnings - WARNING - C:\Users\diego\Documents\1. Diplomado Data Science\7. Pipelines con Kedro\reto\.venv\Lib\site-packages\kedro\framework\cli\catalog.py:63: KedroDeprecationWarning: `kedro catalog list` CLI command is deprecated and will be replaced with its updated version - `kedro catalog list-datasets` in Kedro 1.0.0.
+  warnings.warn(
+
+2026-07-25 14:28:00,371 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-25 14:28:16,929 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-25 14:28:18,771 - py.warnings - WARNING - C:\Users\diego\Documents\1. Diplomado Data Science\7. Pipelines con Kedro\reto\.venv\Lib\site-packages\kedro\framework\cli\catalog.py:63: KedroDeprecationWarning: `kedro catalog list` CLI command is deprecated and will be replaced with its updated version - `kedro catalog list-datasets` in Kedro 1.0.0.
+  warnings.warn(
+
+2026-07-25 14:28:21,034 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 13:58:34,383 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 13:58:36,090 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:32:52,664 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:32:53,489 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:32:55,918 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:34:22,777 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:34:23,328 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:34:23,763 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:38:12,974 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:38:13,508 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:38:13,955 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:39:13,386 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:39:13,936 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:39:14,358 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:39:14,995 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:39:14,997 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:39:15,338 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:39:15,340 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:39:15,341 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:39:15,374 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:39:15,399 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:40:45,171 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:40:45,722 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:40:46,155 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:40:46,839 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:40:46,841 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:40:47,172 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:40:47,174 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:40:47,175 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:40:47,205 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:40:47,229 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:41:26,547 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:41:27,082 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:41:27,500 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:41:28,083 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:41:28,084 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:41:28,417 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:41:28,443 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:41:28,445 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:41:28,474 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:41:28,498 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:42:08,864 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:42:09,393 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:42:09,837 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:42:10,518 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:42:10,520 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:42:10,859 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:42:10,861 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:42:10,863 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:42:10,894 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:42:10,918 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:42:56,169 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:42:56,701 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:42:57,127 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:42:57,779 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:42:57,780 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:42:58,117 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:42:58,119 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:42:58,121 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:42:58,153 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:42:58,177 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:43:21,554 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:43:22,108 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:43:22,588 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:43:23,247 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:43:23,248 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:43:23,578 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:43:23,580 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:43:23,582 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:43:23,611 - kedro.io.data_catalog - INFO - Saving data to train_data (ParquetDataset)...
+2026-07-26 15:43:23,651 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:43:54,959 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:43:55,509 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:43:55,942 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:43:56,545 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:43:56,546 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:43:56,875 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:43:56,876 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:43:56,878 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:43:56,908 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:43:56,932 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:46:05,901 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:46:06,460 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:46:06,917 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:46:07,653 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:46:07,655 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:46:07,990 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:46:07,992 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:46:07,993 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:46:08,025 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:46:08,049 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:47:53,523 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:47:54,054 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:47:54,479 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:47:55,161 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:47:55,163 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:47:55,502 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:47:55,504 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:47:55,505 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:47:55,537 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:47:55,562 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:48:02,588 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:48:03,117 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:48:03,535 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:48:04,155 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:48:04,157 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:48:04,494 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:48:04,496 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:48:04,497 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:48:04,528 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:48:04,552 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:49:42,063 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:49:42,599 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:49:43,035 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:49:43,758 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:49:43,760 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:49:44,102 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:49:44,104 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:49:44,106 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:49:44,139 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:49:44,164 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:50:27,067 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:50:27,605 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:50:28,047 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:50:28,633 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:50:28,634 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:50:28,960 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:50:28,962 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:50:28,963 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:50:28,994 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:50:29,232 - kedro.io.data_catalog - INFO - Saving data to test_data (CSVDataset)...
+2026-07-26 15:50:30,262 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2026-07-26 15:50:30,263 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2026-07-26 15:50:30,264 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully in 1.6 sec.
+2026-07-26 15:50:55,608 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:50:56,141 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:50:56,568 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:50:57,216 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:50:57,217 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:50:57,554 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:50:57,556 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:50:57,557 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:50:57,587 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:50:57,613 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-26 15:51:12,004 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:51:12,538 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:51:12,962 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:51:13,616 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:51:13,618 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:51:13,948 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:51:13,949 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:51:13,950 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:51:13,980 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:51:14,215 - kedro.io.data_catalog - INFO - Saving data to test_data (CSVDataset)...
+2026-07-26 15:51:15,183 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2026-07-26 15:51:15,184 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2026-07-26 15:51:15,185 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully in 1.6 sec.
+2026-07-26 15:51:58,792 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 15:51:59,323 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-26 15:51:59,761 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 15:52:00,420 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-26 15:52:00,422 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-26 15:52:00,743 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-26 15:52:00,745 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-26 15:52:00,746 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-26 15:52:00,774 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-26 15:52:01,006 - kedro.io.data_catalog - INFO - Saving data to test_data (CSVDataset)...
+2026-07-26 15:52:01,934 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2026-07-26 15:52:01,935 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2026-07-26 15:52:01,936 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully in 1.5 sec.
+2026-07-26 22:17:26,584 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 22:17:32,282 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 22:17:32,505 - py.warnings - WARNING - C:\Users\diego\Documents\1. Diplomado Data Science\7. Pipelines con Kedro\reto\.venv\Lib\site-packages\kedro_viz\api\apps.py:18: FastAPIDeprecationWarning: ORJSONResponse is deprecated, FastAPI now serializes data directly to JSON bytes via Pydantic when a return type or response model is set, which is faster and doesn't need a custom response class. Read more in the FastAPI docs: https://fastapi.tiangolo.com/advanced/custom-response/#orjson-or-response-model and https://fastapi.tiangolo.com/tutorial/response-model/
+  from kedro_viz.api.rest.responses.utils import EnhancedORJSONResponse
+
+2026-07-26 22:17:36,084 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-26 22:37:39,361 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 22:37:43,980 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-26 22:37:44,154 - py.warnings - WARNING - C:\Users\diego\Documents\1. Diplomado Data Science\7. Pipelines con Kedro\reto\.venv\Lib\site-packages\kedro_viz\api\apps.py:18: FastAPIDeprecationWarning: ORJSONResponse is deprecated, FastAPI now serializes data directly to JSON bytes via Pydantic when a return type or response model is set, which is faster and doesn't need a custom response class. Read more in the FastAPI docs: https://fastapi.tiangolo.com/advanced/custom-response/#orjson-or-response-model and https://fastapi.tiangolo.com/tutorial/response-model/
+  from kedro_viz.api.rest.responses.utils import EnhancedORJSONResponse
+
+2026-07-26 22:37:45,597 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-29 18:48:58,899 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-29 18:48:59,771 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-29 18:49:02,191 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-29 18:49:03,807 - test.hooks - INFO - Lista del catálogo cargado: ['tracks', 'train_data', 'test_data', 'parameters', 'params:data', 'params:data.train_fraction', 'params:data.random_seed']
+2026-07-29 18:49:03,847 - test.hooks - INFO - El pipeline inicio ejecución justo a las 2026-07-29 18:49:03
+2026-07-29 18:49:03,848 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-29 18:49:03,850 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-29 18:49:04,197 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-29 18:49:04,198 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-29 18:49:04,200 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-29 18:49:04,235 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-29 18:49:04,261 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-29 18:49:24,617 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-29 18:49:25,164 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-29 18:49:25,591 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-29 18:49:34,767 - test.hooks - INFO - Lista del catálogo cargado: ['tracks', 'train_data', 'test_data', 'parameters', 'params:data', 'params:data.train_fraction', 'params:data.random_seed']
+2026-07-29 18:49:34,769 - test.hooks - INFO - El pipeline inicio ejecución justo a las 2026-07-29 18:49:34
+2026-07-29 18:49:34,771 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-29 18:49:34,772 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-29 18:49:35,139 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-29 18:49:35,141 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-29 18:49:35,142 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-29 18:49:35,173 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-29 18:49:35,198 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-29 18:49:52,633 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-29 18:49:53,200 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-29 18:49:53,670 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-29 18:49:54,366 - test.hooks - INFO - Lista del catálogo cargado: ['tracks', 'train_data', 'test_data', 'parameters', 'params:data', 'params:data.train_fraction', 'params:data.random_seed']
+2026-07-29 18:49:54,367 - test.hooks - INFO - El pipeline inicio ejecución justo a las 2026-07-29 18:49:54
+2026-07-29 18:49:54,369 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-29 18:49:54,370 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-29 18:49:54,718 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-29 18:49:54,720 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-29 18:49:54,721 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-29 18:49:54,758 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-29 18:49:54,787 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-29 18:51:37,218 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-29 18:51:37,771 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-29 18:51:38,227 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-29 18:51:39,948 - test.hooks - INFO - Lista del catálogo cargado: ['tracks', 'train_data', 'test_data', 'parameters', 'params:data', 'params:data.train_fraction', 'params:data.random_seed']
+2026-07-29 18:51:39,949 - test.hooks - INFO - El pipeline inicio ejecución justo a las 2026-07-29 18:51:39
+2026-07-29 18:51:39,951 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-29 18:51:39,952 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-29 18:51:40,339 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-29 18:51:40,341 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-29 18:51:40,343 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-29 18:51:40,377 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-29 18:51:40,403 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-29 18:52:02,141 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-29 18:52:02,694 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-29 18:52:03,155 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-29 18:52:04,015 - test.hooks - INFO - Lista del catálogo cargado: ['tracks', 'train_data', 'test_data', 'parameters', 'params:data', 'params:data.train_fraction', 'params:data.random_seed']
+2026-07-29 18:52:04,017 - test.hooks - INFO - El pipeline inicio ejecución justo a las 2026-07-29 18:52:04
+2026-07-29 18:52:04,018 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-29 18:52:04,019 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-29 18:52:04,387 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-29 18:52:04,389 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-29 18:52:04,391 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-29 18:52:04,425 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-29 18:52:04,449 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-07-29 18:52:20,942 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-29 18:52:21,483 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-29 18:52:21,924 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-29 18:52:22,544 - test.hooks - INFO - Lista del catálogo cargado: ['tracks', 'train_data', 'test_data', 'parameters', 'params:data', 'params:data.train_fraction', 'params:data.random_seed']
+2026-07-29 18:52:22,545 - test.hooks - INFO - El pipeline inicio ejecución justo a las 2026-07-29 18:52:22
+2026-07-29 18:52:22,546 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-29 18:52:22,548 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-29 18:52:22,897 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-29 18:52:22,899 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-29 18:52:22,900 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-29 18:52:22,932 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-29 18:52:23,183 - kedro.io.data_catalog - INFO - Saving data to test_data (CSVDataset)...
+2026-07-29 18:52:24,171 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2026-07-29 18:52:24,173 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2026-07-29 18:52:24,174 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully in 1.6 sec.
+2026-07-29 18:52:24,176 - test.hooks - INFO - El pipeline terminó ejecución justo a las 2026-07-29 18:52:24
+2026-07-29 18:56:12,386 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-07-29 18:56:12,938 - kedro.framework.session.session - INFO - Kedro project test
+2026-07-29 18:56:13,396 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-07-29 18:56:15,104 - test.hooks - INFO - Lista del catálogo cargado: ['tracks', 'train_data', 'test_data', 'parameters', 'params:data', 'params:data.train_fraction', 'params:data.random_seed']
+2026-07-29 18:56:15,106 - test.hooks - INFO - El pipeline inicio ejecución justo a las 2026-07-29 18:56:15
+2026-07-29 18:56:15,107 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-07-29 18:56:15,108 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-07-29 18:56:15,464 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-07-29 18:56:15,466 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-07-29 18:56:15,468 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-07-29 18:56:15,501 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-07-29 18:56:15,526 - kedro.runner.sequential_runner - WARNING - No nodes ran. Repeat the previous command to attempt a new run.
+2026-08-02 14:14:40,500 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-08-02 14:14:41,855 - kedro.framework.session.session - INFO - Kedro project test
+2026-08-02 14:14:44,097 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
+2026-08-02 14:14:44,792 - test.hooks - INFO - Lista del catálogo cargado: ['tracks', 'train_data', 'test_data', 'parameters', 'params:data', 'params:data.train_fraction', 'params:data.random_seed']
+2026-08-02 14:14:44,794 - test.hooks - INFO - El pipeline inicio ejecución justo a las 2026-08-02 14:14:44
+2026-08-02 14:14:44,795 - kedro.runner.sequential_runner - INFO - Using synchronous mode for loading and saving data. Use the --async flag for potential performance gains. https://docs.kedro.org/en/stable/nodes_and_pipelines/run_a_pipeline.html#load-and-save-asynchronously
+2026-08-02 14:14:44,796 - kedro.io.data_catalog - INFO - Loading data from tracks (CSVDataset)...
+2026-08-02 14:14:45,134 - kedro.io.data_catalog - INFO - Loading data from params:data.train_fraction (MemoryDataset)...
+2026-08-02 14:14:45,136 - kedro.io.data_catalog - INFO - Loading data from params:data.random_seed (MemoryDataset)...
+2026-08-02 14:14:45,137 - kedro.pipeline.node - INFO - Running node: split_data_node: split_data([tracks;params:data.train_fraction;params:data.random_seed]) -> [train_data;test_data]
+2026-08-02 14:14:45,171 - kedro.io.data_catalog - INFO - Saving data to train_data (CSVDataset)...
+2026-08-02 14:14:45,430 - kedro.io.data_catalog - INFO - Saving data to test_data (CSVDataset)...
+2026-08-02 14:14:46,431 - kedro.runner.sequential_runner - INFO - Completed node: split_data_node
+2026-08-02 14:14:46,433 - kedro.runner.sequential_runner - INFO - Completed 1 out of 1 tasks
+2026-08-02 14:14:46,434 - kedro.runner.sequential_runner - INFO - Pipeline execution completed successfully in 1.6 sec.
+2026-08-02 14:14:46,436 - test.hooks - INFO - El pipeline terminó ejecución justo a las 2026-08-02 14:14:46
+2026-08-02 14:15:35,964 - kedro.framework.project - INFO - Using 'conf\logging.yml' as logging configuration. You can change this by setting the KEDRO_LOGGING_CONFIG environment variable accordingly.
+2026-08-02 14:15:42,722 - kedro_telemetry.plugin - INFO - Kedro is sending anonymous usage data with the sole purpose of improving the product. No personal data or IP addresses are stored on our side. To opt out, set the `KEDRO_DISABLE_TELEMETRY` or `DO_NOT_TRACK` environment variables, or create a `.telemetry` file in the current working directory with the contents `consent: false`. To hide this message, explicitly grant or deny consent. Read more at https://docs.kedro.org/en/stable/about/telemetry/
