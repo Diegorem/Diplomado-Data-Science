@@ -1,0 +1,14 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: admin
+      password: admin
+    test:
+      email: test@gmail.com
+      name: test
+      password: test
+cookie:                      # ✅ el PDF no la muestra, pero testLogin.py la lee (sin esto da KeyError)
+  expiry_days: 30
+  key: una_clave_secreta_cualquiera
+  name: mi_cookie_streamlit
